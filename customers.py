@@ -23,4 +23,4 @@ print(customer)
 del customer['name'] # Deleting a key-value pair from the dictionary
 print(customer)
 
-
+print(customer.get('name', 'Not found')) # Using the get() method to retrieve a value with a default message if the key doesn't exist
