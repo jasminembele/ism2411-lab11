@@ -1,6 +1,7 @@
 # Customers.py
 # Jasmine Mbele
-
+# Self Reflection:
+# 1. I would use .get() in the real world when reading user submitted data from a form. This is because the user may not fill out all the fields, and using .get() allows me to provide a default value instead of raising an error. I would use bracket notation when processing data that I know will always be present, such as required fields in a database record. This is because bracket notation is more straightforward and can be more efficient when I am certain that the key exists.
 print("--- Exercise 1 ---")
 customer = {
     "name": "Alice", # Key: Value,
