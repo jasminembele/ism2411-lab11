@@ -1,6 +1,6 @@
 # ism2411-lab11 — Customer Dictionary & Lookup
 
-**Name:** Your Name Here
+**Name:** Jasmine Mbele-Pitts
 
 ## How to Run
 
