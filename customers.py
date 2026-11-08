@@ -2,6 +2,7 @@
 # Jasmine Mbele
 # Self Reflection:
 # 1. I would use .get() in the real world when reading user submitted data from a form. This is because the user may not fill out all the fields, and using .get() allows me to provide a default value instead of raising an error. I would use bracket notation when processing data that I know will always be present, such as required fields in a database record. This is because bracket notation is more straightforward and can be more efficient when I am certain that the key exists.
+# 2. This pattern reminds me of stuff from excel when it groups data by a certain column and then sums up the values in another column. In this case, we are grouping sales by region and summing the amounts for each region, which is similar to how pivot tables work in Excel.
 print("--- Exercise 1 ---")
 customer = {
     "name": "Alice", # Key: Value,
